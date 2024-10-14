@@ -7,14 +7,14 @@ class Homepage extends StatelessWidget{
         judul: 'Fluter Basics', 
         author: 'John Doe', 
         deskripsi: 'A comprehensive guide for Flutter development',
-        imageUrl: 'https://www.gramedia.com/products/laut-bercerita?utm_source=blog&utm_medium=ContentMarketing&utm_campaign=RekomendasiBukuKaryaPenulisIndonesiayangMenduniaLautBercerita',
+        imageUrl: 'https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/07/18/875205522.jpg',
         
         ),
       Isi(
         judul: 'Laut Bercerita',
         author: 'Leila S.Chudori',
         deskripsi: 'Mengisahkan persahabatan, cinta, dan keluarga yang berhasil menggugah emosional pembaca',
-        imageUrl: 'https://www.gramedia.com/products/laut-bercerita?utm_source=blog&utm_medium=ContentMarketing&utm_campaign=RekomendasiBukuKaryaPenulisIndonesiayangMenduniaLautBercerita',
+        imageUrl: 'https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/07/18/875205522.jpg',
       ),
     ];
 

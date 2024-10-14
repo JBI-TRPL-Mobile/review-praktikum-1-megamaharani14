@@ -21,6 +21,9 @@ class Detailbuku extends StatelessWidget{
               SizedBox(height: 10),
               Text('Deskripsi: ${isi.deskripsi}', style: TextStyle(fontSize:20 )),
               SizedBox(height: 10),
+              Image.network(isi.imageUrl),
+              SizedBox(height: 20),
+              
             ],
           ),
         ),
